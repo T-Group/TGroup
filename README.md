@@ -3,7 +3,7 @@
 <table>
 <tr>
     <td rowspan="25"> 设计模式 </td>
-    <td> 六大原则</td>
+    <td> [六大原则](http://www.uml.org.cn/sjms/201211023.asp) </td>
 </tr>
 <tr>
     <td> 工厂模式 </td>
