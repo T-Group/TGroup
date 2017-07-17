@@ -2,11 +2,8 @@
 
 <table>
 <tr>
-    <td rowspan="24"> 设计模式 </td>
-    <td> 名称：</td>
-</tr>
-<tr>
-    <td> 六大原则 </td>
+    <td rowspan="25"> 设计模式 </td>
+    <td> 六大原则</td>
 </tr>
 <tr>
     <td> 工厂模式 </td>
